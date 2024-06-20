@@ -2,13 +2,13 @@
 
 Instructor: Andrew Scoppa
 
-Emails: v-ascoppa@microsoft.com and andrew.scoppa@atmosera.com
+Emails: v-ascoppa@microsoft.com andrew.scoppa@atmosera.com
 
 GH handle:  andrew-scoppa
 
 ## Materials
 
-[github-copilot-developer.pdf](https://github.com/user-attachments/files/15917016/en-v2-github-copilot-developer.pdf)
+[GitHub Copilot Developer](https://github.com/user-attachments/files/15917367/en-v2-github-copilot-developer.pdf)
 
 ## Workshop
 
@@ -33,8 +33,6 @@ GH handle:  andrew-scoppa
 [Using GitHub Copilot Chat in your IDE](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide)
 
 [Tutorial: GitHub Copilot and VS Code](https://github.com/skills/copilot-codespaces-vscode)
-
-
 
 
 
